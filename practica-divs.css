@@ -1,0 +1,23 @@
+.container{
+    width: 90%;
+    margin: auto;
+}
+.abajo{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+}
+.derecha a {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight:400;
+    font-size: 16px;
+    color: black;
+}
+.arriba{ 
+    display: flex;
+    justify-content: space-between;
+}
+.listas nav {
+    display: inline-block;
+}
